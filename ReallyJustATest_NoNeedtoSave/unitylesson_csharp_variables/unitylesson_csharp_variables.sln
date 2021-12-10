@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitylesson_csharp_variables", "unitylesson_csharp_variables\unitylesson_csharp_variables.csproj", "{5F41F8D1-FC5D-4523-8881-C9831146EDB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity lesson function", "unity lesson function\unity lesson function.csproj", "{30087C9D-048A-4419-A3AD-AD2432ADDC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F41F8D1-FC5D-4523-8881-C9831146EDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F41F8D1-FC5D-4523-8881-C9831146EDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F41F8D1-FC5D-4523-8881-C9831146EDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F41F8D1-FC5D-4523-8881-C9831146EDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30087C9D-048A-4419-A3AD-AD2432ADDC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30087C9D-048A-4419-A3AD-AD2432ADDC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30087C9D-048A-4419-A3AD-AD2432ADDC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30087C9D-048A-4419-A3AD-AD2432ADDC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E021CE4B-B308-4E3F-BA54-BD8E1299F612}
+	EndGlobalSection
+EndGlobal
