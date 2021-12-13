@@ -17,13 +17,16 @@ namespace unitylesson_Csharp_static_Example
                 ork.typeName= "오크타입";
 
                 Person.SayTypeName();
+
+                ork ork1 = new Ork();
+                //static 으로 정의된 클래스는 객체생성 불가. 인스턴스화 불가.
           
             }   
            
            
         }
 
-        class ork
+        static class ork
         {
             static public string typeName;
 
