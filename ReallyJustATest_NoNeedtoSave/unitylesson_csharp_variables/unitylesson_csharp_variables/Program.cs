@@ -24,7 +24,7 @@ namespace unitylesson_csharp_variables
     int Age = 120; // 정수형 4byte
     
     float height = 210.5f; // 실수형 4byte
-    bool isFemale false; // 논리형 1byte
+    bool isFemale = true; // 논리형 1byte
     char genderChar = '남'; // 단일문자형 2byte
     string name = "김덕배"; // 문자열형 문자갯수 * 2byte
 }
