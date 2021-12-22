@@ -4,7 +4,17 @@ using System.Text;
 
 namespace UnityLesson_CSharp_Operator
 {
-    class FunctionsForOperations
+    class FunctionsForOperators
     {
+
+        //산술 연산
+        // 덧셈
+        static public int Sum( int a, int b)
+        {
+
+            return a + b; 
+
+        }
+
     }
 }
