@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ForLoop1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLessonCSharp_ForLoopExample", "UnityLessonCSharp_ForLoopExample\UnityLessonCSharp_ForLoopExample.csproj", "{C430AA59-D073-4EFA-8403-32CFD65F0FF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNityLesson_CSharp_Collection", "UNityLesson_CSharp_Collection\UNityLesson_CSharp_Collection.csproj", "{E6BD6C81-AC61-459E-9636-B1A6BCF9B681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C430AA59-D073-4EFA-8403-32CFD65F0FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C430AA59-D073-4EFA-8403-32CFD65F0FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C430AA59-D073-4EFA-8403-32CFD65F0FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6BD6C81-AC61-459E-9636-B1A6BCF9B681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6BD6C81-AC61-459E-9636-B1A6BCF9B681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6BD6C81-AC61-459E-9636-B1A6BCF9B681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6BD6C81-AC61-459E-9636-B1A6BCF9B681}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

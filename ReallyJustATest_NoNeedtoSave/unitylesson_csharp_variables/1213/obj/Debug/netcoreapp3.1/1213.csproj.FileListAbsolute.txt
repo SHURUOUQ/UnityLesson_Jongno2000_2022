@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\UnityLesson_Jongno2000_2022\ReallyJustATest_NoNeedtoSave\unitylesson_csharp_variables\1213\obj\Debug\netcoreapp3.1\1213.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnityLesson_Jongno2000_2022\ReallyJustATest_NoNeedtoSave\unitylesson_csharp_variables\1213\obj\Debug\netcoreapp3.1\1213.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityLesson_Jongno2000_2022\ReallyJustATest_NoNeedtoSave\unitylesson_csharp_variables\1213\obj\Debug\netcoreapp3.1\1213.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityLesson_Jongno2000_2022\ReallyJustATest_NoNeedtoSave\unitylesson_csharp_variables\1213\obj\Debug\netcoreapp3.1\1213.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityLesson_Jongno2000_2022\ReallyJustATest_NoNeedtoSave\unitylesson_csharp_variables\1213\obj\Debug\netcoreapp3.1\1213.csproj.CoreCompileInputs.cache
