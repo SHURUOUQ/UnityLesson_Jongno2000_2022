@@ -84,7 +84,7 @@ namespace UNityLesson_CSharp_Collection
             {
                 string tmpKey = sub.Key;
                 string tmpValue = sub.Value;
-                Console.WriteLine($"{sub.Key}:{sub.Value}");
+                Console.WriteLine($"{tmpKey}:{tmpValue}");
             }
 
             // List
