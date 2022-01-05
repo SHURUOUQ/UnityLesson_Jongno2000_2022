@@ -29,11 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLessonCSharp_ForLoopEx
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UNityLesson_CSharp_Collection", "UNityLesson_CSharp_Collection\UNityLesson_CSharp_Collection.csproj", "{E6BD6C81-AC61-459E-9636-B1A6BCF9B681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_CSharp_Lesson_Enum", "Unity_CSharp_Lesson_Enum\Unity_CSharp_Lesson_Enum.csproj", "{CC7C969B-4669-4373-BC04-AB85C1C5964C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity_CSharp_Lesson_Enum", "Unity_CSharp_Lesson_Enum\Unity_CSharp_Lesson_Enum.csproj", "{CC7C969B-4669-4373-BC04-AB85C1C5964C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Structure", "UnityLesson_CSharp_Structure\UnityLesson_CSharp_Structure.csproj", "{8AD0FBE8-BC4B-43EE-B74F-E0CDFB578140}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Structure", "UnityLesson_CSharp_Structure\UnityLesson_CSharp_Structure.csproj", "{8AD0FBE8-BC4B-43EE-B74F-E0CDFB578140}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ClassDetails", "UnityLesson_CSharp_ClassDetails\UnityLesson_CSharp_ClassDetails.csproj", "{61D4A824-FDCA-4238-A4CD-722DC2EBF808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ClassDetails", "UnityLesson_CSharp_ClassDetails\UnityLesson_CSharp_ClassDetails.csproj", "{61D4A824-FDCA-4238-A4CD-722DC2EBF808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSh_ClassInheritance", "UnityLesson_CSh_ClassInheritance\UnityLesson_CSh_ClassInheritance.csproj", "{F62A55F1-1267-42B7-AE5A-1563F7FD1957}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{61D4A824-FDCA-4238-A4CD-722DC2EBF808}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61D4A824-FDCA-4238-A4CD-722DC2EBF808}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61D4A824-FDCA-4238-A4CD-722DC2EBF808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62A55F1-1267-42B7-AE5A-1563F7FD1957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62A55F1-1267-42B7-AE5A-1563F7FD1957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62A55F1-1267-42B7-AE5A-1563F7FD1957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62A55F1-1267-42B7-AE5A-1563F7FD1957}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
